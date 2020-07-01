@@ -6,7 +6,7 @@ Organising some of the datasets and codes I have used in the past in one place. 
 Visualizing in lower dimension 
 - MDS
 - LLE
-- Isomap
+- Isomap \
 Building a predictive model to predict whether a restaurent is rated more than 4(subject to change) or not. \
 The main feature is the _cuisines_ it serve, other features include the _location_(lat,long), _Average price for two_ etc. \
 - Proper pre-processing 
