@@ -3,11 +3,12 @@
 Organising some of the datasets and codes I have used in the past in one place. These are mostly incomplete. 
 
 ## __Zomato data Analysis__ : 
-Visualizing in lower dimension 
+
+##### Visualizing in lower dimension 
 - MDS
 - LLE
-- Isomap \
-Building a predictive model to predict whether a restaurent is rated more than 4(subject to change) or not. \
+- Isomap\
+###### Building a predictive model to predict whether a restaurent is rated more than 4(subject to change) or not. \
 The main feature is the _cuisines_ it serve, other features include the _location_(lat,long), _Average price for two_ etc. \
 - Proper pre-processing 
 - Univariate feature selection 
