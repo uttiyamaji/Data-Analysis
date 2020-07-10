@@ -22,6 +22,8 @@ Exploring what makes the IMDB rating high for a film with a dataset of ~5k films
 
 ## __random__:
 some miscelleneous data analyses
+##### MachineHack:
+Participated in one hackathon, didn't complete and submit though
 ##### __mess_bill_analysis__: 
 Analysed the mess bill I had for a month
 ##### __Credit__:  
