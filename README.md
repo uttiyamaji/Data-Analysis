@@ -16,6 +16,8 @@ The main feature is the _cuisines_ it serve, other features include the _locatio
 - Plotting in 2D using MDS 
 - Tuning SVM (kernel = 'rbf')
 
+## Tidy Tuesday
+Attempting Tidy Tuesday problems using python to develop data wrangling skills in Python
 
 ## __IMDB__ :
 Exploring what makes the IMDB rating high for a film with a dataset of ~5k films. The dataset contains a lot of nice variables. Another similar dataset, containing data about ~80k films is there. 
