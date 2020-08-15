@@ -17,7 +17,10 @@ The main feature is the _cuisines_ it serve, other features include the _locatio
 - Tuning SVM (kernel = 'rbf')
 
 ## Tidy Tuesday
-Attempting Tidy Tuesday problems using python to develop data wrangling skills in Python\
+Attempting Tidy Tuesday problems using Python to develop data wrangling skills in Python
+- penguins
+- avatar
+
 link to official project: https://github.com/rfordatascience/tidytuesday
 
 ## __IMDB__ :
