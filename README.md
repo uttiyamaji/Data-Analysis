@@ -16,7 +16,7 @@ The main feature is the _cuisines_ it serve, other features include the _locatio
 - Plotting in 2D using MDS 
 - Tuning SVM (kernel = 'rbf')
 
-## Tidy Tuesday
+## Tidy Tuesday:
 Attempting Tidy Tuesday problems using Python to develop data wrangling skills in Python
 - penguins
   - https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-28/readme.md
