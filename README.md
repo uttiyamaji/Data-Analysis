@@ -4,17 +4,13 @@ Organising some of the datasets and codes I have used in the past in one place. 
 
 ## __Zomato data Analysis__ : 
 
-##### Visualizing in lower dimension 
-- MDS
-- LLE
-- Isomap 
-
-##### Building a predictive model to predict whether a restaurant is rated more than 4(subject to change) or not.
-The main feature is the _cuisines_ it serve, other features include the _location_(lat,long), _Average price for two_ etc. 
-- Proper pre-processing 
+dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data?select=zomato.csv
+##### Building a predictive model to predict whether a restaurant is rated more than 4 (subject to change) or not.
+- Pre-processing, mainly the cuisines feature
 - Univariate feature selection 
-- Plotting in 2D using MDS 
-- Tuning SVM (kernel = 'rbf')
+- SVM 
+##### Visualizing in lower dimension to see if there is any pattern
+- MDS, isomap, LLE
 
 ## Tidy Tuesday:
 Attempting Tidy Tuesday problems using Python to develop data wrangling skills in Python
