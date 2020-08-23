@@ -28,6 +28,10 @@ Attempting Tidy Tuesday problems using Python to develop data wrangling skills i
 
 link to official project: https://github.com/rfordatascience/tidytuesday
 
+## Regression Analysis Course Project:
+link to the Exploratory data analysis: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-28/readme.md
+After exploration a linear model was fit using backward elimmination
+
 ## __IMDB__ :
 Exploring what makes the IMDB rating high for a film with a dataset of ~5k films. The dataset contains a lot of nice variables. Another similar dataset, containing data about ~80k films is there. 
 
