@@ -12,6 +12,14 @@ dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data?select=zomat
 ##### Visualizing in lower dimension to see if there is any pattern
 - MDS, isomap, LLE
 
+Some datasets related to food/restaurants: 
+- https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+- https://www.kaggle.com/ronidas39/zomato-india-data-set
+
+These two are great places to learn about the technology behind food delivery/discovery/connecting user and restaurant 
+- Zomato blog: https://www.zomato.com/blog/
+- Swiggy blog: https://bytes.swiggy.com/
+
 ## Tidy Tuesday:
 Attempting Tidy Tuesday problems using Python to develop data wrangling skills in Python
 - penguins
