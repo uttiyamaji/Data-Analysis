@@ -19,7 +19,12 @@ The main feature is the _cuisines_ it serve, other features include the _locatio
 ## Tidy Tuesday
 Attempting Tidy Tuesday problems using Python to develop data wrangling skills in Python
 - penguins
-- avatar
+  - https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-28/readme.md
+  - Exploration using facet wraps
+  - Modeling to predict the Penguin species using Multinomial Logistic Regression
+- Avatar
+  - https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-11/readme.md
+  - Generating various text features to predict whether a line was spoken by any character or it was a scene description
 
 link to official project: https://github.com/rfordatascience/tidytuesday
 
