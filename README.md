@@ -21,6 +21,7 @@ Attempting Tidy Tuesday problems using Python to develop data wrangling skills i
 - Avatar
   - https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-11/readme.md
   - Generating various text features to predict whether a line was spoken by any character or it was a scene description
+  - textfeatures: https://pypi.org/project/textfeatures/
 
 link to official project: https://github.com/rfordatascience/tidytuesday
 
