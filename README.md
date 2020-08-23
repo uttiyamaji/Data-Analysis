@@ -35,7 +35,7 @@ Attempting Tidy Tuesday problems using Python to develop data wrangling skills i
 link to official project: https://github.com/rfordatascience/tidytuesday
 
 ## Regression Analysis Course Project:
-- link to the Exploratory data analysis: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-28/readme.md 
+- link to the Exploratory data analysis: https://medium.com/uttiyamaji/exploratory-data-analysis-done-right-dfb15e0e2b94?sk=0e0bee46d32adab85b52d3a73da26000
 - After exploration a linear model was fit using backward elimmination
 
 ## __IMDB__ :
